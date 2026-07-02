@@ -3,6 +3,6 @@ Aspire Website
 
 # Push to origin branch
 git add .
-git commit -m "ASPIRE-Web"
+git commit -m "aspireautismcentre.github.io"
 git push origin main
 git pull origin main
