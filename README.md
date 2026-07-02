@@ -5,3 +5,4 @@ Aspire Website
 git add .
 git commit -m "ASPIRE-Web"
 git push origin main
+git pull origin main
